@@ -1,8 +1,8 @@
 (ns my-repl
   (:require [app.warehouse :as warehouse]
             [app.config :as config]
-            [app.sms :as sms]
-            [app.pipeline :as pipeline]
+            [examples.sms :as sms]
+            [examples.pipeline :as pipeline]
             [twilio.core :as twilio]))
 
 (defn take-from-warehouse []

@@ -1,4 +1,4 @@
-(ns app.sms
+(ns examples.sms
   (:require [app.config :as config]
             [mount.core :refer [defstate]]
             [twilio.core :as twilio]))

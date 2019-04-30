@@ -1,4 +1,4 @@
-(ns app.pipeline
+(ns examples.pipeline
   (:require [clojure.string :as s]
             [clojure.core.async :as ca :refer [>! <!]]
             [mount.core :refer [defstate]]))

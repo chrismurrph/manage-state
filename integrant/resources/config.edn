@@ -1,6 +1,6 @@
 {:db-creds          {:user     "Chris"
                      :password "password"}
  :warehouse-channel {:db-creds #ig/ref :db-creds
-                     :warehouse {:capacity    100
+                     :warehouse {:capacity    80
                                  :stock-items [:shirt :tie :socks :shoes :braces :bowler-hat :umbrella :brief-case]
                                  :take-size   5}}}
