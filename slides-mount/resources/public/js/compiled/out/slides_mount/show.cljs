@@ -11,7 +11,7 @@
          (jobim/->Title
            "Mount, Integrant and Component" "Chris Murphy")
          (comps/->Points ["Doing it yourself, Stuart Sierra"
-                          "Component, Stuart Sierra - juxt/Modular"
+                          "Component, Stuart Sierra - juxt/Edge"
                           "Mount, Anatoly Polinsky (tolitius) - Luminus"
                           "Integrant, James Reeves (weavejester) - Duct"])
          (comps/->Points ["Static Config: connection URL, username, password, API keys"
