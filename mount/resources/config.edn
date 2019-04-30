@@ -1,0 +1,7 @@
+{:db-creds  {:user     "Chris"
+             :password "password"}
+ :sms       {:sid        "my-sid"
+             :auth-token "my-auth-token"}
+ :warehouse {:capacity    80
+             :stock-items [:shirt :tie :socks :shoes :braces :bowler-hat :umbrella :brief-case]
+             :take-size   5}}

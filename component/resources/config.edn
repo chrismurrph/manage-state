@@ -1,0 +1,5 @@
+{:db-creds {:user     "Chris"
+            :password "password"}
+ :warehouse {:capacity 80
+             :stock-items [:shirt :tie :socks :shoes :braces :bowler-hat :umbrella :brief-case]
+             :take-size 5}}
