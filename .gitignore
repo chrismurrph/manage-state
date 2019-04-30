@@ -10,6 +10,9 @@
 /mount/.idea
 /integrant/.idea
 /component/.idea
+/mount/target
+/integrant/target
+/component/target
 archive
 *.txt
 .lein-repl-history
