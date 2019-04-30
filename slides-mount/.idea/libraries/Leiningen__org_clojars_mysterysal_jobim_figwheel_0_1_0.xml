@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Leiningen: org.clojars.mysterysal/jobim-figwheel:0.1.0">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/clojars/mysterysal/jobim-figwheel/0.1.0/jobim-figwheel-0.1.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
