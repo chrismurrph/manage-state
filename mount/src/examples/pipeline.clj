@@ -3,6 +3,8 @@
             [clojure.core.async :as ca :refer [>! <!]]
             [mount.core :refer [defstate]]))
 
+;; https://stackoverflow.com/questions/40433158/how-can-i-improve-this-clojure-componentasync-example/40435030#40435030
+
 (defn upverse [from to]
   (ca/pipeline-blocking 4
                         to

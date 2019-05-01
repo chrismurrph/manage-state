@@ -10,9 +10,12 @@
 /mount/.idea
 /integrant/.idea
 /component/.idea
+/slides-mount/.idea
 /mount/target
 /integrant/target
 /component/target
+/slides-mount/target
+/slides-mount/resources/public/js/compiled
 archive
 *.txt
 .lein-repl-history
